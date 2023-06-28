@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcp.api.integrations.poc", "gcp.api.integrations.poc\gcp.api.integrations.poc.csproj", "{3C3F8D94-3B4D-4429-AAA5-8C2789319175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcp.api.cloud.storage", "gcp.api.cloud.storage\gcp.api.cloud.storage.csproj", "{DC0263C5-E578-426B-8023-BE4772663824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcp.api.auth.domain", "gcp.api.auth.domain\gcp.api.auth.domain.csproj", "{6A48F745-EEC1-4696-97B7-A4B946E8EA42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3F8D94-3B4D-4429-AAA5-8C2789319175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3F8D94-3B4D-4429-AAA5-8C2789319175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3F8D94-3B4D-4429-AAA5-8C2789319175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3F8D94-3B4D-4429-AAA5-8C2789319175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0263C5-E578-426B-8023-BE4772663824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0263C5-E578-426B-8023-BE4772663824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0263C5-E578-426B-8023-BE4772663824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0263C5-E578-426B-8023-BE4772663824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A48F745-EEC1-4696-97B7-A4B946E8EA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A48F745-EEC1-4696-97B7-A4B946E8EA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A48F745-EEC1-4696-97B7-A4B946E8EA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A48F745-EEC1-4696-97B7-A4B946E8EA42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
